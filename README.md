@@ -1,2 +1,2 @@
 # freeMark-
-SpringMvc使用freemarker
+SpringMvc使用freemarker样例
