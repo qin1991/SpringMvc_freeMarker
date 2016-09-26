@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="webTemplete:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="templete-1.0-SNAPSHOT.war" />
+  </artifact>
+</component>
